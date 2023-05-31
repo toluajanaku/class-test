@@ -1,2 +1,2 @@
 # class-test
-coursera class
+This is a test file for practising my coding
